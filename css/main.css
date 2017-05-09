@@ -1130,14 +1130,14 @@ li:hover {
 
   p {
     font-family: 'Raleway', sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
     padding: 0px;
     margin: 0px;
     width: 220px;
     margin: 0 auto;
-    opacity: 0.7;
+    opacity: 0.4;
   }
 
   h2 {
