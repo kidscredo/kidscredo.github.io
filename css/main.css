@@ -8,7 +8,7 @@ body {
 
 main {
   flex: 1;
-  max-width: 650px;
+  max-width: 680px;
   margin: 0 auto;
   margin-top: 50px;
   min-height: 600px;
@@ -83,11 +83,11 @@ nav {
 
 .badge {
   width: 170px;
-  margin-top: 90px;
+  margin-top: 70px;
 }
 
 .quote {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 p {
@@ -101,7 +101,9 @@ p {
 }
 
 .quote p {
-  max-width: 260px;
+  max-width: 295px;
+  line-height: 21px;
+  font-size: 15px;
   font-family: 'Alegreya Sans', sans-serif;
 }
 
@@ -225,6 +227,9 @@ footer p {
       margin-top: 25px;
     }
     .desktop {
+      display:none;
+    }
+    .quote {
       display:none;
     }
     .mobile {
